@@ -1,4 +1,4 @@
-public class RewardValue {
+public class rdValue {
     private double cashValue;
     private int milesValue;
 
